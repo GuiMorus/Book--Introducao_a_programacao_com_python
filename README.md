@@ -10,9 +10,10 @@ pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
 
 ## Sumário
 
-[Capítulo 1 - Motivação](#capítulo-1---motivação)
+* [Capítulo 1 - Motivação](#capítulo-1---motivação)
 
-[Capítulo 2 - Preparando o ambiente](#capítulo-2---preparando-o-ambiente)
+* [Capítulo 2 - Preparando o ambiente](#capítulo-2---preparando-o-ambiente)
+
 
 ## Capítulo 1 - Motivação
 
@@ -32,6 +33,7 @@ ferramenta, um instrumento de ensino. Sorte a minha 😁
 Abre os olhos que programação leva tempo, tem que quebrar a cabeça e como isso é normal,
 o real motivo de querer aprender programação e mostra como conseguir ajudas e te
 motiva a seguir a vida como garoto de programador.
+
 
 ## Capítulo 2 - Preparando o ambiente
 
