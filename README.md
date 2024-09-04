@@ -11,7 +11,6 @@ pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
 ## Sumário
 
 * [Capítulo 1 - Motivação](#capítulo-1---motivação)
-
 * [Capítulo 2 - Preparando o ambiente](#capítulo-2---preparando-o-ambiente)
 
 
