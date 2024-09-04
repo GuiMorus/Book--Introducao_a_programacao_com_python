@@ -49,3 +49,8 @@ a compreensão e resolução dos exercícios.
 ### minha opinião:
 
 ainda estou lendo o capítulo 👀
+
+
+## Referências
+- [Documentação Oficial do Python](https://docs.python.org/3/)
+- [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
