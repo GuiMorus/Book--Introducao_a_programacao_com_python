@@ -12,6 +12,7 @@ pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
 
 * [Capítulo 1 - Motivação](#capítulo-1---motivação)
 * [Capítulo 2 - Preparando o ambiente](#capítulo-2---preparando-o-ambiente)
+* [Capítulo 3 - Variáveis e entrada de dados](#capítulo-3---variáveis-e-entrada-de-dados)
 
 
 ## Capítulo 1 - Motivação
