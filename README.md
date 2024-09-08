@@ -47,8 +47,36 @@ a compreensão e resolução dos exercícios.
 
 ### minha opinião:
 
-ainda estou lendo o capítulo 👀
+O livro traz um conteúdo bem leve e didático para os primeiros passos da programação
+com python. Já começa a trazer conceitos importantes como a leitura correta das
+variáveis, da atribuição de valores, e a importância dos tipos e fechamentos.
 
+A parte da matemática é uma boa para relembrar conceitos que não lembramos mais, porém,
+mostra um pouco de como o livro pode ter uma linguagem mais rebuscada, tornando difícil
+a compreensão, a tentativa de resumo por parte do autor pode trazer confusões, é interessante
+buscar outras fontes pra relembrar/aprender matemática caso sinta dificuldade.
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%202%20-%20Preparando%20o%20ambiente)
+- [ex01 - Expressões matemáticas em Python](./Chapter%202%20-%20Preparando%20o%20ambiente/ex01.py)
+- [ex02 - Ordem de precedências matemáticas](./Chapter%202%20-%20Preparando%20o%20ambiente/ex02.py)
+- [ex03 - Faça um programa escrevendo seu nome](./Chapter%202%20-%20Preparando%20o%20ambiente/ex03.py)
+- [ex04 - Trabalhando com variáveis pt1](./Chapter%202%20-%20Preparando%20o%20ambiente/ex04.py)
+- [ex05 - Trabalhando com variáveis pt2](./Chapter%202%20-%20Preparando%20o%20ambiente/ex05.py)
+- [ex06 - Acréscimo salarial](./Chapter%202%20-%20Preparando%20o%20ambiente/ex06.py)
+
+
+## Capítulo 3 - Variáveis e entrada de dados:
+
+### resumo:
+
+Tipos de variáveis, propriedades de cada tipo, operações e operadores. Apresenta o conceito de
+programa no tempo e uma técnica simples de rastreamento. Entrada de dados pelo teclado, conversão
+de tipos de dados e erros comuns.
+
+### minha opinião:
+
+ainda estou lendo o capítulo 👀
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
