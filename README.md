@@ -77,7 +77,27 @@ de tipos de dados e erros comuns.
 
 ### minha opinião:
 
-ainda estou lendo o capítulo 👀
+Este é realmente o capítulo das variáveis. Diferente do resumo de matemática, quando o livro pega
+para explicar sobre programação dá um show e deixa da forma mais clara possível.
+
+Aqui é bem os primeiros passos da programação, começando a mexer com as varáveis, entender seus tipos,
+começando com linhas de comando pra pegar dados do usuário, converter tipos de variáveis e é só o começo.
+
+Eu já tenho uma boa noção sobre Python mas nunca pulo os primeiros passos dos cursos, sempre tem algo novo
+para aprender e dessa vez eu aprendi com os operadores lógicos e os testes lógicos. É a partir deste capítulo
+que da para sentir um contato com a linguagem e a experiência de programar.
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados)
+- [ex04 - Calculadora Imposto](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex04.py)
+- [ex06 - Alunos Aprovados](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex06.py)
+- [ex07 - F-Strings](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex07.py)
+- [ex08 - Metro vs Milímetros](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex08.py)
+- [ex09 - Tudo em um segundo](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex09.py)
+- [ex10 - Aumento de salário](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex10.py)
+- [ex11 - E o desconto?](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex11.py)
+- [ex12 - Distância da viagem](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex12.py)
+- [ex13 - C° em F°](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex13.py)
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
