@@ -98,6 +98,8 @@ que da para sentir um contato com a linguagem e a experiência de programar.
 - [ex11 - E o desconto?](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex11.py)
 - [ex12 - Distância da viagem](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex12.py)
 - [ex13 - C° em F°](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex13.py)
+- [ex14 - Aluguel de carro](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex14.py)
+- [ex15 - NÃO FUME!](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex15.py)
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
