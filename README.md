@@ -67,7 +67,7 @@ buscar outras fontes pra relembrar/aprender matemática caso sinta dificuldade.
 - [ex06 - Acréscimo salarial](./Chapter%202%20-%20Preparando%20o%20ambiente/ex06.py)
 
 
-## Capítulo 3 - Variáveis e entrada de dados:
+## Capítulo 3 - Variáveis e entrada de dados
 
 ### resumo:
 
@@ -100,6 +100,22 @@ que da para sentir um contato com a linguagem e a experiência de programar.
 - [ex13 - C° em F°](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex13.py)
 - [ex14 - Aluguel de carro](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex14.py)
 - [ex15 - NÃO FUME!](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex15.py)
+
+
+## Capítulo 4 - Condições
+
+### resumo:
+
+Estrutura condicionais, conceitos de blocos e seleção de linhas a executar com base na avaliação
+de expressões lógicas.
+
+### minha opinião:
+
+Volto a reforçar, o livre é super didático e utiliza explicações fáceis.
+
+O autor acertou na mão ao usar a tática de ensinar passo a passo, é fácil de enterder estruturas como: if, elif, else.
+Fora que as lógicas são simples de entender e os exercícios fixam bem os conceitos, foi o capítulo mais curto
+que li até agora.
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
