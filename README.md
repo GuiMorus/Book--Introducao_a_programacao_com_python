@@ -127,6 +127,18 @@ que li até agora.
 - [ex11 - Seu sonho, Sua casa](./Chapter%204%20-%20Condições/ex11.py)
 - [ex12 - RIC Eletricidade](./Chapter%204%20-%20Condições/ex12.py)
 
+
+## Capítulo 5 - Repetições
+
+### resumo:
+
+Estrutura de repetição while, contadores, acumuladores. Apresenta o conceito de repetição da execução de um bloco e de
+repetições aninhadas.
+
+### minha opinião:
+
+ainda estou lendo 👀
+
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
