@@ -13,7 +13,7 @@ pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
 * [Capítulo 1 - Motivação](#capítulo-1---motivação)
 * [Capítulo 2 - Preparando o ambiente](#capítulo-2---preparando-o-ambiente)
 * [Capítulo 3 - Variáveis e entrada de dados](#capítulo-3---variáveis-e-entrada-de-dados)
-
+* [Capítulo 4 - Condições](#capítulo-4---condições)
 
 ## Capítulo 1 - Motivação
 
@@ -116,6 +116,16 @@ Volto a reforçar, o livre é super didático e utiliza explicações fáceis.
 O autor acertou na mão ao usar a tática de ensinar passo a passo, é fácil de enterder estruturas como: if, elif, else.
 Fora que as lógicas são simples de entender e os exercícios fixam bem os conceitos, foi o capítulo mais curto
 que li até agora.
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%204%20-%20Condições)
+- [ex02 - Radar Online](./Chapter%204%20-%20Condições/ex02.py)
+- [ex03 - Qual maior? Qual menor?](./Chapter%204%20-%20Condições/ex03.py)
+- [ex04 - Quanto mais, menos](./Chapter%204%20-%20Condições/ex04.py)
+- [ex06 - Calculadora de passagem](./Chapter%204%20-%20Condições/ex06.py)
+- [ex10 - Simpluradora](./Chapter%204%20-%20Condições/ex10.py)
+- [ex11 - Seu sonho, Sua casa](./Chapter%204%20-%20Condições/ex11.py)
+- [ex12 - RIC Eletricidade](./Chapter%204%20-%20Condições/ex12.py)
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
