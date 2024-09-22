@@ -137,7 +137,33 @@ repetições aninhadas.
 
 ### minha opinião:
 
-ainda estou lendo 👀
+Este com certeza foi o capítulo com mais exercícios até agora, deu para relembrar muita coisa que já tinha aprendido e
+foca nas repetições utilizando o While e o Break.
+
+Traz conceitos de variáveis controladoras e acumuladoras, o que como programadores iremos usar para sempre.
+Os exercícios reforçam bem o conhecimento adquirido e de verdade, são questões desafiadoras, confesso que
+pulei algumas por serem difícil(e porque bateu preguiça 😅)
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%205%20-%20Repetições)
+- [ex01 - Repetindo pt. 1](./Chapter%205%20-%20Repetições/ex01.py)
+- [ex02 - Repetindo pt. 1](./Chapter%205%20-%20Repetições/ex02.py)
+- [ex03 - Contagem do lançamento](./Chapter%205%20-%20Repetições/ex03.py)
+- [ex04 - Mostrando só ímpares](./Chapter%205%20-%20Repetições/ex04.py)
+- [ex05 - Multiplos de 3](./Chapter%205%20-%20Repetições/ex05.py)
+- [ex06 - Tabuada](./Chapter%205%20-%20Repetições/ex06.py)
+- [ex07 - Tabuada, agora você decide](./Chapter%205%20-%20Repetições/ex07.py)
+- [ex08 - Multiplicando, só que somando](./Chapter%205%20-%20Repetições/ex08.py)
+- [ex09 - Resto da divisão sem usar %](./Chapter%205%20-%20Repetições/ex09.py)
+- [ex11 - VAMU POUPAR!](./Chapter%205%20-%20Repetições/ex11.py)
+- [ex12 - VAMU POUPAR 2.0!](./Chapter%205%20-%20Repetições/ex12.py)
+- [ex13 - Pague suas dívidas, se puder](./Chapter%205%20-%20Repetições/ex13.py)
+- [ex14 - SOMA, SOMA A SOMA](./Chapter%205%20-%20Repetições/ex14.py)
+- [ex15 - pequena máquina registradora](./Chapter%205%20-%20Repetições/ex15.py)
+- [ex16 - Contando cédulas 💲 pt. 1](./Chapter%205%20-%20Repetições/ex16.py)
+- [ex18 - Contando cédulas 💲 pt. 2](./Chapter%205%20-%20Repetições/ex18.py)
+- [ex23 - É primo?](./Chapter%205%20-%20Repetições/ex23.py)
+- [ex24 - Indo até os primos](./Chapter%205%20-%20Repetições/ex24.py)
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
