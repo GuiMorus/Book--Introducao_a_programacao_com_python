@@ -111,7 +111,7 @@ de expressões lógicas.
 
 ### minha opinião:
 
-Volto a reforçar, o livre é super didático e utiliza explicações fáceis.
+Volto a reforçar, o livro é super didático e utiliza explicações fáceis.
 
 O autor acertou na mão ao usar a tática de ensinar passo a passo, é fácil de enterder estruturas como: if, elif, else.
 Fora que as lógicas são simples de entender e os exercícios fixam bem os conceitos, foi o capítulo mais curto
