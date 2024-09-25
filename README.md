@@ -165,6 +165,18 @@ pulei algumas por serem difícil(e porque bateu preguiça 😅)
 - [ex23 - É primo?](./Chapter%205%20-%20Repetições/ex23.py)
 - [ex24 - Indo até os primos](./Chapter%205%20-%20Repetições/ex24.py)
 
+
+## Capítulo 6 - Listas, dicionários, tuplas e conjuntos
+
+### resumo:
+
+Operações com listas, ordenação pelo método de bolhas, pesquisa, utilização de listas como pilhas e filas.
+Exemplos de uso de dicionários, tuplas e conjuntos.
+
+### minha opinião:
+
+Ainda na leitura 👀
+
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
