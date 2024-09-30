@@ -3,7 +3,7 @@
 Bom dia, boa tarde, boa noite.
 
 Esse repositório é dedicado exclusivamente aos códigos de exercícios/exemplos do
-incrível livro que chegou em minhas mãos em Setembro/2024
+incrível livro que chegou nas minhas mãos em Setembro/2024
 
 Conforme o tempo atualizarei este repositório com várias coisas, junto talvez com testes
 pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
@@ -27,7 +27,7 @@ apresentando problemas e aplicações do dia a dia.
 O livro tem uma boa forma de realmente conversar sobre Programação. 
 
 Dá para entender o real objetivo do autor, preocupando-se em ensinar a programação em sí e não
-necessáriamente aprender Python, na verdade a linguagem Python é utilizada como
+necessáriamente aprender Python, na verdade, a linguagem Python é utilizada como
 ferramenta, um instrumento de ensino. Sorte a minha 😁
 
 Abre os olhos que programação leva tempo, tem que quebrar a cabeça e como isso é normal,
@@ -80,11 +80,11 @@ de tipos de dados e erros comuns.
 Este é realmente o capítulo das variáveis. Diferente do resumo de matemática, quando o livro pega
 para explicar sobre programação dá um show e deixa da forma mais clara possível.
 
-Aqui é bem os primeiros passos da programação, começando a mexer com as varáveis, entender seus tipos,
+Aqui é bem os primeiros passos da programação, começando a mexer com as varáveis, entender os seus tipos,
 começando com linhas de comando pra pegar dados do usuário, converter tipos de variáveis e é só o começo.
 
-Eu já tenho uma boa noção sobre Python mas nunca pulo os primeiros passos dos cursos, sempre tem algo novo
-para aprender e dessa vez eu aprendi com os operadores lógicos e os testes lógicos. É a partir deste capítulo
+Eu já tenho uma boa noção sobre Python, mas nunca pulo os primeiros passos dos cursos, sempre tem algo novo
+para aprender e dessa vez eu aprendi com os operadores e os testes lógicas. É a partir deste capítulo
 que da para sentir um contato com a linguagem e a experiência de programar.
 
 ### exercícios:
@@ -111,7 +111,7 @@ de expressões lógicas.
 
 ### minha opinião:
 
-Volto a reforçar, o livro é super didático e utiliza explicações fáceis.
+Volto a reforçar, o livro é superdidático e utiliza explicações fáceis.
 
 O autor acertou na mão ao usar a tática de ensinar passo a passo, é fácil de enterder estruturas como: if, elif, else.
 Fora que as lógicas são simples de entender e os exercícios fixam bem os conceitos, foi o capítulo mais curto
@@ -175,7 +175,38 @@ Exemplos de uso de dicionários, tuplas e conjuntos.
 
 ### minha opinião:
 
-Ainda na leitura 👀
+Um espetáculo de capítulo, o livro não só explica com maestria o assunto abordado de listas, como também, já dá as
+primeiras pinceladas sobre ordenação, filas e pilhas.
+
+Aqui nós aprendemos como usar bem mais as variáveis com vários valores, como fatiá-las fazer as leituras, modificações
+e como usar o While e For para fazer a análise completa e até mesmo técnicas de ordenação de listas.
+
+Para quem conhece o Python já sabe que existem funções de Ordenação como o sorted() ou .sort(), mas trazer essa teoria,
+de como fazer do 0, faz a nossa mente trabalhar bem mais com as possibilidades e mostra a existência de tipos de
+algorítmos e lógicas de chegar a resultados diferentes.
+
+O capítulo está completo, fala como funciona as Listas, Dicionários, Tuplas e Conjuntos. Bem como os métodos aceitos
+por cada tipo destas variáveis. Eu mesmo não conhecia os conjuntos set() do Python, até este momento tive dificuldade em
+abstrair a ideia e de quando usar cada teste do set(). Sorte que o livro traz ilustrações que facilitam o entendimento
+dos conjuntos, e é um assunto que tenho que rever dentro da matemática.
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos)
+- [ex01 - Minha nota, Minha média](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex01.py)
+- [ex02 - 1 + 1 = 3](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex02.py)
+- [ex03 - 3° lista sem repetições](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex03.py)
+- [ex05 - Listas e filas](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex05.py)
+- [ex07 - Listas e pilhas](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex07.py)
+- [ex08 - Pesquisa sequêncial](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex08.py)
+- [ex09 - Pesquisando em 2 listas](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex09.py)
+- [ex10 - Pesquisando melhor](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex10.py)
+- [ex12 - O menor do grupo](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex12.py)
+- [ex13 - O menor e MAIOR do grupo](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex13.py)
+- [ex14 - Sistema de ingressos de um cinema](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex14.py)
+- [ex19 - Sistema estoque de vendas](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex19.py)
+- [ex20 - Letras para dicionário](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex20.py)
+- [ex21 - Teoria dos conjuntos pt1](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex21.py)
+- [ex22 - Teoria dos conjuntos pt2](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex22.py)
 
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
