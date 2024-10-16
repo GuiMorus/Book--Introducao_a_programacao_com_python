@@ -208,6 +208,27 @@ dos conjuntos, e é um assunto que tenho que rever dentro da matemática.
 - [ex21 - Teoria dos conjuntos pt1](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex21.py)
 - [ex22 - Teoria dos conjuntos pt2](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex22.py)
 
+
+## Capítulo 7 - Trabalhando com strings
+
+### resumo:
+
+Apresenta operações avançadas com strings. Explora a classe string do Python. O capítulo traz também um jogo simples
+para fixar os conceitos de manipulação de strings.
+
+### minha opinião:
+
+Esse capítulo mostra um dos poderes do Python de além de simples, conseguir fazer coisas incríveis. Depois das f-strings,
+assunto explicado no livro, a implementação de texto em qualquer ferramenta é muito fácil e totalmente possível.
+
+O livro consegue separar bem em sessões os métodos utilizados para trabalhar com strings e traz diversas formas de lógica
+para aplicá-las no dia a dia da programação. Não há muito o que realmente falar do capítulo, o foco dele é este mesmo,
+trabalhar com strings, mas, é de longe algo que seja dispensável, até porque é discutido no capítulo os tipos de dados
+e tipos de strings que o Python consegue converter e filtrar.
+
+É interessante notar que o autor começa a juntas conhecimentos de capítulos anteriores para resolver as questões dentro
+do capítulo de strings. A preocupação não é só mostrar o que o Python é capaz de fazer, mas de realmente aprender.
+
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
