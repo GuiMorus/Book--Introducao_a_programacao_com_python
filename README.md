@@ -229,6 +229,31 @@ e tipos de strings que o Python consegue converter e filtrar.
 É interessante notar que o autor começa a juntas conhecimentos de capítulos anteriores para resolver as questões dentro
 do capítulo de strings. A preocupação não é só mostrar o que o Python é capaz de fazer, mas de realmente aprender.
 
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%207%20-%20Trabalhando%20com%20strings)
+- [ex01 - Strings e posição](./Chapter%207%20-%20Trabalhando%20com%20strings/ex01.py)
+- [ex02 - Strings em comum](./Chapter%207%20-%20Trabalhando%20com%20strings/ex02.py)
+- [ex03 - Strings em comum 2](./Chapter%207%20-%20Trabalhando%20com%20strings/ex03.py)
+- [ex04 - Contando Strings](./Chapter%207%20-%20Trabalhando%20com%20strings/ex04.py)
+- [ex05 - Strings e Set](./Chapter%207%20-%20Trabalhando%20com%20strings/ex05.py)
+- [ex06 - Substituição de Strings](./Chapter%207%20-%20Trabalhando%20com%20strings/ex06.py)
+- [ex07 - Contando vogais](./Chapter%207%20-%20Trabalhando%20com%20strings/ex07.py)
+- [ex08 - Contando palavras](./Chapter%207%20-%20Trabalhando%20com%20strings/ex08.py)
+- [ex09 - Jogo da Forca](./Chapter%207%20-%20Trabalhando%20com%20strings/ex09.py)
+- [ex12 - JOGO DA VELHA](./Chapter%207%20-%20Trabalhando%20com%20strings/ex12.py)
+
 ## Referências
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
+
+
+## Capítulo 8 - Funções
+
+### resumo:
+
+Noção de função e transferência de fluxo, funções recursivas, funções lambda, parâmetros, módulos.
+Apresenta números aleatórios
+
+### minha opinião:
+
+Lendo...
