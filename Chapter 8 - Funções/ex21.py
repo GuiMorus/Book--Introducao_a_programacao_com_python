@@ -1,4 +1,4 @@
-# Escreva uma funçãp que gere os números como a função range()
+# Escreva uma função que gere os números como a função range()
 # Essa função recebe três parâmetros e o seu comportamento muda se passarmos um, dois ou
 # até três parametros. Chame-a de faixa
 

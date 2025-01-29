@@ -51,7 +51,7 @@ while VIDA > 0:
     while True:
         tentativa = int(input("Em qual árvore está o alienígena: ").strip())
         if tentativa in erros:
-            print("Você já tentou está arvore, escolha outra vagabundo!! \n")
+            print("Você já tentou está arvore, escolha outra \n")
         else:
             break
 

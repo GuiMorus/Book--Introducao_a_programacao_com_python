@@ -14,7 +14,7 @@ def transformar_string():
     while True:
         # Mostrando opções disponíveis
         print("Escolha uma opção")
-        print("[minusculo] | [maisculo] | [tamanho]\n")
+        print("[minusculo] | [maiusculo] | [tamanho]\n")
 
         # Recolhendo opção
         opção = str(input("Digite a opção: ").strip().lower())
@@ -35,4 +35,4 @@ def transformar_string():
 # [PROGRAMA PRINCIPAL] -----
 
 # Chamando função
-transformar_string()
+print(transformar_string())

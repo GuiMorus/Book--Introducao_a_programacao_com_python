@@ -256,4 +256,44 @@ Apresenta números aleatórios
 
 ### minha opinião:
 
-Lendo...
+Sem dúvidas esse foi o capítulo mais denso que li, mas trouxe novidades e conceitos muito importante. Uma que não posso
+deixar de falar é o list comprehension e os iteráveis.
+
+Conseguimos entender bem mais do que acontece nos bastidores do for e de até reduzir os códigos em alguns aspectos
+utilizando listas. Confesso que terei de ler de novo para entender e absolver direito tudo o que aprendi, foi realmente
+bem denso.
+
+O final do capítulo da uma acelerada para mostrar algumas ferramentas menos utilizadas hoje em dia mas que eram
+importantes antigamente. Pra mim é a forma do livro de te ensinar tanto outro jeito de fazer as coisas como te deixar
+consciente da existência desses métodos (e funções), para que, quando você se deparar em códigos mais antigos vai saber
+exatamente do que se trata.
+
+### exercícios
+- [TODOS OS EXERCÍCIOS](./Chapter%208%20-%20Funções)
+- [ex01 - Quem é o maior?](./Chapter%208%20-%20Funções/ex01.py)
+- [ex02 - Você é meu multiplo?](./Chapter%208%20-%20Funções/ex02.py)
+- [ex03 - Cada área no seu quadrado](./Chapter%208%20-%20Funções/ex03.py)
+- [ex04 - Cada área no seu triângulo](./Chapter%208%20-%20Funções/ex04.py)
+- [ex05 - Retorno de índice](./Chapter%208%20-%20Funções/ex05.py)
+- [ex06 - For pela "primeira vez"](./Chapter%208%20-%20Funções/ex06.py)
+- [ex08 - MDC](./Chapter%208%20-%20Funções/ex08.py)
+- [ex11 - Intervalo personalizado](./Chapter%208%20-%20Funções/ex11.py)
+- [ex12 - Você está dentro da lista?](./Chapter%208%20-%20Funções/ex12.py)
+- [ex13 - Maiusculo, minusculo ou tamanho](./Chapter%208%20-%20Funções/ex13.py)
+- [ex14 - Random](./Chapter%208%20-%20Funções/ex14.py)
+- [ex16 - 👽🌳 JOGO DO ALIEN 🔫](./Chapter%208%20-%20Funções/ex16.py)
+- [ex17 - 👽🌳 JOGO DO ALIEN 🔫 2.0](./Chapter%208%20-%20Funções/ex17.py)
+- [ex19 - Iterador de primos](./Chapter%208%20-%20Funções/ex19.py)
+- [ex20 - Iterador fatorial](./Chapter%208%20-%20Funções/ex20.py)
+- [ex21 - Refazendo o Range](./Chapter%208%20-%20Funções/ex21.py)
+
+
+## Capítulo 9 - Arquivos
+
+### resumo:
+
+Criação e leitura de arquivos em disco. Geração de arquivos HTML em Python, operações com arquivos e diretórios,
+parâmetros pela linha de comando, caminhos, manipulação de datas e horários. Criação e leitura de arquivos JSON.
+
+### minha opinião:
+

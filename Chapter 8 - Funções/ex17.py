@@ -1,4 +1,4 @@
-# Melhore o programa do exercício anteriro perguntando ao jogador o nível de dificuldade desejado.
+# Melhore o programa do exercício anterior perguntando ao jogador o nível de dificuldade desejado.
 # MODO FÁCIL: vida começa com 100 e dano de 1 - 10
 # MODO MÉDIO: vida começa com 80 e dano de 5 - 15
 # MODO DIFÍCIL: vida começa com 65 e dano de 7 - 20
@@ -62,7 +62,7 @@ while VIDA > 0:
     while True:
         tentativa = int(input("Em qual árvore está o alienígena: ").strip())
         if tentativa in erros:
-            print("Você já tentou está arvore, escolha outra vagabundo!! \n")
+            print("Você já tentou está arvore, escolha outra!! \n")
         else:
             break
 
