@@ -1,0 +1,8 @@
+Este é um arquivo de teste
+Caso o sistema encontre o símbolo: =
+no começo do texto ele utiliza print para aparecer
+= o simbolo de forma repetida
+. a cara vez que há um ponto
+= o sistema pode continuar ou se desejar
+= pode parar de vez
+.
