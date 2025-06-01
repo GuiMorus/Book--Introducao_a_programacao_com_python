@@ -297,3 +297,44 @@ parâmetros pela linha de comando, caminhos, manipulação de datas e horários.
 
 ### minha opinião:
 
+Este capítulo sem dúvidas me foi muito util para entender a interação do Python com o Windows, com dados gravados
+e outras linguagens. Para mim o mais interessante foi entender como funciona o JSON, um tipo de arquivo que
+sempre tive curiosidade de entender e também queria saber como funciona para gravar dados de forma Local.
+
+Aqui o livro nos ensina como navegar pelos diretórios, como utilizar o prompt de comando(CMD) com o Python
+e como é feito todos os caminhos, criação e escrita de arquivos e mexer com os diversos formatos.
+
+Cada vez que avanço pelo livro, mais coisas técnicas e úteis aprendo e de introdução sinto que já sai
+do básico e estou indo para o intermediário. Usar JSON é algo extremamente importante ainda mais para se
+comunicar com outras linguagens de programação, banco de dados e ter informações pernamentes.
+
+Algo que fez eu ler ultra rápido de tão interessante foi a utilização de bytes e binários, o livro fala
+de forma introdutória como utilizar bits para gerar textos e imagens em BMP, sem dúvidas a coisa mais
+legal que pude aprender de forma rápida, dá até vontade de criar um mini editor de imagens.
+
+### exercícios
+- [TODOS OS EXERCÍCIOS](./Chapter%209%20-%20Arquivos)
+- [ex01 - Usando CMD](./Chapter%209%20-%20Arquivos/ex01.py)
+- [ex02 - Ainda usando CMD](./Chapter%209%20-%20Arquivos/ex02.py)
+- [ex03 - Criando txt](./Chapter%209%20-%20Arquivos/ex03.py)
+- [ex04 - Arquivos e CMD](./Chapter%209%20-%20Arquivos/ex04.py)
+- [ex05 - Manipulando txt](./Chapter%209%20-%20Arquivos/ex05.py)
+- [ex06 - Manipulando txt pt2](./Chapter%209%20-%20Arquivos/ex06.py)
+- [ex07 - Paginando Arquivos](./Chapter%209%20-%20Arquivos/ex07.py)
+- [ex09 - Utilizando txt como banco de dados](./Chapter%209%20-%20Arquivos/ex09.py)
+- [ex10 - Juntando txts](./Chapter%209%20-%20Arquivos/ex10.py)
+- [ex13 - txt ultra power com CMD](./Chapter%209%20-%20Arquivos/ex13.py)
+- [ex17 - Agenda em txt](./Chapter%209%20-%20Arquivos/ex17.py)
+- [ex18 - Modificando agenda](./Chapter%209%20-%20Arquivos/ex18.py)
+- [ex19 - Modificando agenda pt2](./Chapter%209%20-%20Arquivos/ex19.py)
+- [ex20 - Modificando agenda pt3](./Chapter%209%20-%20Arquivos/ex20.py)
+- [ex21 - Turbinando agenda](./Chapter%209%20-%20Arquivos/ex21.py)
+- [ex23 - Turbinando agenda pt2](./Chapter%209%20-%20Arquivos/ex23.py)
+- [ex29 - HTML e Python](./Chapter%209%20-%20Arquivos/ex29.py)
+- [ex30 - HTML e Python pt2](./Chapter%209%20-%20Arquivos/ex30.py)
+- [ex31 - Diretórios e Python](./Chapter%209%20-%20Arquivos/ex31.py)
+- [ex32 - Usando a biblioteca Path](./Chapter%209%20-%20Arquivos/ex32.py)
+- [ex33 - Path e HTML](./Chapter%209%20-%20Arquivos/ex33.py)
+- [ex37 - JSON e Python](./Chapter%209%20-%20Arquivos/ex37.py)
+- [ex38 - JSON e Python pt2](./Chapter%209%20-%20Arquivos/ex38.py)
+

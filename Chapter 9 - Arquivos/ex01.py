@@ -1,4 +1,4 @@
-# Escreva u mprograma que receba o nome de um arquivo pela linha de comando e que imprima
+# Escreva um programa que receba o nome de um arquivo pela linha de comando e que imprima
 # todas as linhas desse arquivo
 
 import sys

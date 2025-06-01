@@ -1,4 +1,4 @@
-# Reescreva um programa similar com o exercício anteior para receber mais dois parâmetros
+# Reescreva um programa similar com o exercício anterior para receber mais dois parâmetros
 # a linha de início e a de fim para impressão. O programa deve imprimir apenas as linhas
 # entre esses dois valores (incluindo as linhas início e fim)
 
