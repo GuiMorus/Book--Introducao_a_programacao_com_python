@@ -338,3 +338,14 @@ legal que pude aprender de forma rápida, dá até vontade de criar um mini edit
 - [ex37 - JSON e Python](./Chapter%209%20-%20Arquivos/ex37.py)
 - [ex38 - JSON e Python pt2](./Chapter%209%20-%20Arquivos/ex38.py)
 
+
+## Capítulo 10 - Classes e objetos
+
+### resumo:
+
+Introdução à orientação a objetos. Explica os conceitos de classe, objetos, métodos e herança. Prepara o aluno para
+continuar estudando o tópico e melhor compreender o assunto.
+
+### minha opinião:
+
+Ainda lendo o capítulo 😊
