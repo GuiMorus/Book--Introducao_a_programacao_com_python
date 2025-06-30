@@ -15,6 +15,8 @@ pessoais, aprendidas com o livro(4º Edição - Revisada e Ampliada)
 * [Capítulo 3 - Variáveis e entrada de dados](#capítulo-3---variáveis-e-entrada-de-dados)
 * [Capítulo 4 - Condições](#capítulo-4---condições)
 
+---
+
 ## Capítulo 1 - Motivação
 
 ### resumo:
@@ -34,6 +36,7 @@ Abre os olhos que programação leva tempo, tem que quebrar a cabeça e como iss
 o real motivo de querer aprender programação e mostra como conseguir ajudas e te
 motiva a seguir a vida como garoto de programador.
 
+---
 
 ## Capítulo 2 - Preparando o ambiente
 
@@ -66,6 +69,7 @@ buscar outras fontes pra relembrar/aprender matemática caso sinta dificuldade.
 - [ex05 - Trabalhando com variáveis pt2](./Chapter%202%20-%20Preparando%20o%20ambiente/ex05.py)
 - [ex06 - Acréscimo salarial](./Chapter%202%20-%20Preparando%20o%20ambiente/ex06.py)
 
+---
 
 ## Capítulo 3 - Variáveis e entrada de dados
 
@@ -101,6 +105,7 @@ que da para sentir um contato com a linguagem e a experiência de programar.
 - [ex14 - Aluguel de carro](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex14.py)
 - [ex15 - NÃO FUME!](./Chapter%203%20-%20Variáveis%20e%20entrada%20de%20dados/ex15.py)
 
+---
 
 ## Capítulo 4 - Condições
 
@@ -127,6 +132,7 @@ que li até agora.
 - [ex11 - Seu sonho, Sua casa](./Chapter%204%20-%20Condições/ex11.py)
 - [ex12 - RIC Eletricidade](./Chapter%204%20-%20Condições/ex12.py)
 
+---
 
 ## Capítulo 5 - Repetições
 
@@ -165,6 +171,7 @@ pulei algumas por serem difícil(e porque bateu preguiça 😅)
 - [ex23 - É primo?](./Chapter%205%20-%20Repetições/ex23.py)
 - [ex24 - Indo até os primos](./Chapter%205%20-%20Repetições/ex24.py)
 
+---
 
 ## Capítulo 6 - Listas, dicionários, tuplas e conjuntos
 
@@ -208,6 +215,7 @@ dos conjuntos, e é um assunto que tenho que rever dentro da matemática.
 - [ex21 - Teoria dos conjuntos pt1](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex21.py)
 - [ex22 - Teoria dos conjuntos pt2](./Chapter%206%20-%20Listas,%20Tuplas%20e%20Conjuntos/ex22.py)
 
+---
 
 ## Capítulo 7 - Trabalhando com strings
 
@@ -242,10 +250,7 @@ do capítulo de strings. A preocupação não é só mostrar o que o Python é c
 - [ex09 - Jogo da Forca](./Chapter%207%20-%20Trabalhando%20com%20strings/ex09.py)
 - [ex12 - JOGO DA VELHA](./Chapter%207%20-%20Trabalhando%20com%20strings/ex12.py)
 
-## Referências
-- [Documentação Oficial do Python](https://docs.python.org/3/)
-- [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
-
+---
 
 ## Capítulo 8 - Funções
 
@@ -268,7 +273,7 @@ importantes antigamente. Pra mim é a forma do livro de te ensinar tanto outro j
 consciente da existência desses métodos (e funções), para que, quando você se deparar em códigos mais antigos vai saber
 exatamente do que se trata.
 
-### exercícios
+### exercícios:
 - [TODOS OS EXERCÍCIOS](./Chapter%208%20-%20Funções)
 - [ex01 - Quem é o maior?](./Chapter%208%20-%20Funções/ex01.py)
 - [ex02 - Você é meu multiplo?](./Chapter%208%20-%20Funções/ex02.py)
@@ -287,6 +292,7 @@ exatamente do que se trata.
 - [ex20 - Iterador fatorial](./Chapter%208%20-%20Funções/ex20.py)
 - [ex21 - Refazendo o Range](./Chapter%208%20-%20Funções/ex21.py)
 
+---
 
 ## Capítulo 9 - Arquivos
 
@@ -312,7 +318,7 @@ Algo que fez eu ler ultra rápido de tão interessante foi a utilização de byt
 de forma introdutória como utilizar bits para gerar textos e imagens em BMP, sem dúvidas a coisa mais
 legal que pude aprender de forma rápida, dá até vontade de criar um mini editor de imagens.
 
-### exercícios
+### exercícios:
 - [TODOS OS EXERCÍCIOS](./Chapter%209%20-%20Arquivos)
 - [ex01 - Usando CMD](./Chapter%209%20-%20Arquivos/ex01.py)
 - [ex02 - Ainda usando CMD](./Chapter%209%20-%20Arquivos/ex02.py)
@@ -348,4 +354,37 @@ continuar estudando o tópico e melhor compreender o assunto.
 
 ### minha opinião:
 
-Ainda lendo o capítulo 😊
+Sem dúvidas uma grande introdução a programação orientada a objetos e como tudo isso funciona em Python. Eu já tenho
+uma noção boa de como funciona a POO, já testei em Java e em C# e até que tenho uma base boa. Se assim como eu você
+também tem base essa capítulo vai ser easy, se ta começando, pode ser um pouco assustador porém importante.
+
+O Python como sempre nos facilita muitas coisas na hora da criação e tem uma sintaxe bem diferente do padrão de outras
+linguagens, tenho amigos que não gosta disso por não seguir meio um "padrão", mas comparada a outras linguagens
+criar objetos e classes no python é bem mais simplificado, e simplicidade é a coisa que mais amo no Python.
+
+### exercícios:
+- [TODOS OS EXERCÍCIOS](./Chapter%2010%20-%20Classes%20e%20Objetos)
+- [ex01 - Classe de Televisão](./Chapter%2010%20-%20Classes%20e%20Objetos/ex01.py)
+- [ex02 - Classe de Televisão pt2.](./Chapter%2010%20-%20Classes%20e%20Objetos/ex02.py)
+- [ex03 - Classe de Televisão, O Retorno](./Chapter%2010%20-%20Classes%20e%20Objetos/ex03.py)
+- [ex04 - Classe de Televisão, O Império Contra Ataca](./Chapter%2010%20-%20Classes%20e%20Objetos/ex04.py)
+- [ex05 - Classe de Televisão, A Ultima Classe](./Chapter%2010%20-%20Classes%20e%20Objetos/ex05.py)
+- [ex11 - Objetos de Cidades e Estados](./Chapter%2010%20-%20Classes%20e%20Objetos/ex11.py)
+
+---
+
+## Capítulo 11 - Banco de dados
+
+### resumo:
+
+Introdução à linguagem SQL e ao banco de dados SQLite.
+
+### minha opinião:
+
+Ainda estou lendo 🤓
+
+---
+
+## Referências
+- [Documentação Oficial do Python](https://docs.python.org/3/)
+- [Livro: Introdução à Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/)
